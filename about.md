@@ -6,7 +6,9 @@ permalink: /about/
 
 ## What is Library Carpentry?
 
-Library Carpentry is software skills training aimed at the needs and requirements of library professionals. Training takes place in face-to-face workshops where one or more of the 'stable' lessons are taught. Lessons are also made available online (CC BY, published via GitHub Pages) for self-directed study or for adaptation and reuse by library professionals. Library Carpentry workshops have been taught right around the globe and won the 2016 [British Library Labs](http://labs.bl.uk/British+Library+Labs+Awards) Teaching and Learning Award.
+Library Carpentry is software skills training aimed at the needs and requirements of library professionals. Training takes place in face-to-face workshops where one or more of the 'stable' lessons are taught. Lessons are also made available online (CC BY, published via GitHub Pages) for self-directed study or for adaptation and reuse by library professionals. 
+
+Library Carpentry workshops have been taught right around the globe, and Library Carpentry won the 2016 [British Library Labs](http://labs.bl.uk/British+Library+Labs+Awards) Teaching and Learning Award.
 
 Library Carpentry is in the commons and for the commons. It is not tied to any institution or person. 
 
