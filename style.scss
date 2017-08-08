@@ -98,6 +98,23 @@ ul ul, ol ul {
   list-style-type: circle;
 }
 
+dt {
+    font-weight: bold;
+    float: left;
+    margin-right: 1ex;
+}
+
+dd {
+    margin-bottom: 1em;
+    padding-left: 2ex;
+}
+
+th {
+    font-weight: bold;
+    font-style: italic;
+    text-align: left;
+}
+
 em, i {
   font-style: italic;
 }
@@ -165,7 +182,7 @@ img {
 
 .site-avatar {
   float: left;
-  width: 70px;
+  width: 115px;
   height: 70px;
   margin-right: 15px;
 
@@ -281,6 +298,67 @@ nav {
 footer {
   padding: 20px 0;
   text-align: center;
+}
+
+//
+// Lesson table formatting
+//
+
+#lesson-table {
+
+  td, th {
+    padding: 1ex;
+  }
+
+  tbody {
+    border: {
+      top: 1px #bbb solid;
+      bottom: 1px #bbb solid;
+    }
+
+    &:nth-child(odd) {
+      background: #eee;
+    }
+  }
+
+}
+
+.lesson-status {
+  text-align: center;
+}
+
+//
+// Workshop table formatting
+//
+
+table.workshops {
+
+    width: 100%;
+    
+    th {
+        font-weight: bold;
+        font-style: italic;
+        text-align: left;
+    }
+
+    tr:nth-child(odd) {
+        background: #fff;
+    }
+
+    tr:nth-child(even) {
+        background: #eee;
+    }
+
+    td, th {
+        padding: 0.2em;
+
+        &.ws-venue {
+        }
+
+        &.ws-date {
+            text-align: right;
+        }
+    }
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS

@@ -1,0 +1,17 @@
+<table id="lesson-table">
+
+  {% for lesson_group in site.data.lessons %}
+    <tbody>
+      <tr><th colspan="2" class="lesson-status">{{ lesson_group.status }}</th></tr>
+      {% for lesson in lesson_group.lessons %}
+        <tr>
+          <td class="lesson-title">
+            <a href="{{ lesson.web }}">{{ lesson.title }}</a>
+          </td>
+          <td class="lesson-description">{{ lesson.description }}</td>
+        </tr>
+      {% endfor %}
+    </tbody>
+  {% endfor %}
+
+</table>
