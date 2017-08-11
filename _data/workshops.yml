@@ -397,7 +397,6 @@ workshops:
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "University Libraries, University of Arizona, Tucson, AZ, USA"
     humandate: "9 August, 2017"
     start: null
@@ -410,6 +409,7 @@ workshops:
     notes: null
     url: "https://jcoliver.github.io/2017-08-09-lc-tucson/"
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "State Library of NSW, Sydney"
     humandate: "14 August, 2017"
     start: null
@@ -456,6 +456,18 @@ workshops:
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: 
     blogs: "n/a"
+  - venue: "University of Padua"
+    humandate: "14-15 September, 2017"
+    start: null
+    end: null
+    latitude: 45.406435
+    longitude: 11.876761
+    who: "James Baker, Dan Michael Olsen Heggø"
+    numbers: "~100"
+    what: "Shell, Git, Open Refine, SQL"
+    url: "http://bibliotecadigitale.cab.unipd.it/news/14-15-settembre.-library-carpentry.-software-skills-for-library-professionals.-workshop"
+    notes: 
+    blogs: "n/a"
   - venue: "Library Carpentry, South Africa"
     humandate: "30 September - 1 October, 2017"
     start: null
@@ -472,7 +484,7 @@ workshops:
     start: 2017-11-07
     end: 2017-11-07
     eventbrite_id: ''
-    humandate: 7 November 2017
+    humandate: 7 November, 2017
     latitude: 51.4816
     longitude: 0.2799
     who: "James Baker"
