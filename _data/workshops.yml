@@ -433,7 +433,6 @@ workshops:
     notes: "This is one of a series of workshops funded by NSLA."
     url: "https://weaverbel.github.io/nsla-roadshow/"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "State Library of Western Australia, Perth"
     humandate: "28 August, 2017"
     start: null
@@ -456,6 +455,19 @@ workshops:
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: 
     blogs: "n/a"
+- &id_ws_future # future workshops: move this line down as time passes
+  - venue: "UCLA"
+    humandate: "8 September, 2017"
+    start: null
+    end: null
+    latitude: 34.068921
+    longitude: -118.4473698
+    who: "Scott Peterson, Juliane Schneider, Tim Dennis"
+    numbers: ""
+    what: "Shell, Open Refine, SQL"
+    url: "https://ucla-data-archive.github.io/2017-09-08-ucla/"
+    notes: 
+    blogs: "n/a"    
   - venue: "University of Padua"
     humandate: "14-15 September, 2017"
     start: null
