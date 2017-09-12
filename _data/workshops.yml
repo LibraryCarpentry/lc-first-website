@@ -502,6 +502,7 @@ workshops:
     who: "James Baker"
     numbers: null
     what: "Intro, regex, Shell"
+    url: "https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-day-tickets-36187449636"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
