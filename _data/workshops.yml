@@ -455,7 +455,6 @@ workshops:
     what: "Jargon busting, regex, Shell, Open Refine"
     notes: 
     blogs: "n/a"
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "UCLA"
     humandate: "8 September, 2017"
     start: null
@@ -491,7 +490,8 @@ workshops:
     what: "Jargon busting, regex, Shell, Open Refine"
     url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
     notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
-    blogs: null  
+    blogs: null 
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "The National Archives, Kew, UK"
     start: 2017-11-07
     end: 2017-11-07
