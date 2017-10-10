@@ -492,6 +492,18 @@ workshops:
     notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
     blogs: null 
 - &id_ws_future # future workshops: move this line down as time passes
+  - venue: "QULOC-LISWP, The University of Queensland"
+    start: 2017-11-03
+    end: 2017-11-03
+    eventbrite_id: ''
+    humandate: 3 November, 2017
+    latitude: -27.496990
+    longitude: 153.011403
+    who: "Belinda Weaver, Paula Martinez"
+    numbers: null
+    what: "Intro, Shell, OpenRefine"
+    url: https://weaverbel.github.io/2017-11-03-liswp/
+    blogs: null
   - venue: "The National Archives, Kew, UK"
     start: 2017-11-07
     end: 2017-11-07
