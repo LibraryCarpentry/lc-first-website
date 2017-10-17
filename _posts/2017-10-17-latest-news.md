@@ -21,14 +21,14 @@ We are also hoping to be able to use the `librarycarpentry.org` domain which is 
 
 ### New funded Library Carpentry position based at CDL
 
-John Chodacki filled us in on the recently awarded IMLS grant which will support the work of Library Carpentry both within the US and globally. 
+John Chodacki filled us in on the [recently awarded IMLS grant](https://www.imls.gov/grants/awarded/RE-85-17-0121-17) which will support the work of Library Carpentry both within the US and globally. 
 Using the grant, California Digital Library will hire a person on a two-year contract, with a remit of growing the community, especially
 the instructor pool, and responding to the ever growing demand for workshops. There will also be work to develop and finish modules 
 created during the 2016 and 2017 sprints.
 
 ### Governance
 
-Since there was general agreement across both calls for eventual merger with the Carpentries (which will themselves merge in January 2018), 
+Since there was general agreement across both calls for eventual merger with the Carpentries ([which will themselves merge in January 2018](http://www.datacarpentry.org/blog/merger/)), 
 it was decided that the Library Carpentry community 
 should elect an interim Steering Committee to guide us through that process. The proposal was to have five people (to prevent tied votes) and to 
 revisit the Committee post-merger. 
