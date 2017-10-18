@@ -11,19 +11,19 @@ It was great to have such a good roll-up for both calls, and we managed to make 
 
 ### Website redesign
 
-We voted to move ahead with [Richard Vankoningsveld](https://github.com/richyvk)'s [proposed redesign](http://www.richyvk.me/library-carpentry-redesign/)
+We voted to move ahead with [Richard Vankoningsveld](https://github.com/richyvk)'s [proposed redesign](https://www.richyvk.me/library-carpentry-redesign/)
 of the existing [Library Carpentry](http://librarycarpentry.github.io/) website. John Chodacki would prefer the logo be 
 white or grey rather than yellow, and Richard still has some work to do to get the blog to render in the same [Agency theme](https://github.com/y7kim/agency-jekyll-theme). 
 
-This theme is designed for projects rather than for blogs but, with some tweaking, this should not a problem. So things are looking good!
+This theme is designed for projects rather than for blogs but, with some tweaking, this should not be a problem. So things are looking good!
 
 We are also hoping to be able to use the `librarycarpentry.org` domain which is currently owned by Software Carpentry.
 
 ### New funded Library Carpentry position based at CDL
 
-John Chodacki filled us in on the [recently awarded IMLS grant](https://www.imls.gov/grants/awarded/RE-85-17-0121-17) which will support the work of Library Carpentry both within the US and globally. 
+John Chodacki filled us in on the [recently awarded IMLS grant](https://www.imls.gov/grants/awarded/RE-85-17-0121-17) which will support the work of Library Carpentry both within the US (for example, fostering local communities of new instructors in underserved areas such as the Southeast US) and globally. 
 Using the grant, California Digital Library will hire a person on a two-year contract, with a remit of growing the community, especially
-the instructor pool, and responding to the ever growing demand for workshops. There will also be work to develop and finish modules 
+the instructor pool, and responding to the ever growing demand for workshops. There will also be work to develop and finish lessons
 created during the 2016 and 2017 sprints.
 
 ### Governance
