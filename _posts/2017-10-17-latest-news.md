@@ -30,11 +30,11 @@ created during the 2016 and 2017 sprints.
 
 Since there was general agreement across both calls for eventual merger with the Carpentries ([which will themselves merge in January 2018](http://www.datacarpentry.org/blog/merger/)), 
 it was decided that the Library Carpentry community 
-should elect an interim Steering Committee to guide us through that process. The proposal was to have five people (to prevent tied votes) and to 
+should elect an interim Steering Committee to guide us through that process. The proposal was to have around five to seven people (to prevent tied votes) and to 
 revisit the Committee post-merger. 
 
 Several people expressed interest in serving on such a committee. Belinda Weaver will dig up the Software Carpentry Steering Committee's
-terms of reference and propose something similar for Library Carpentry's interim committee. We will then try to organise a vote.
+terms of reference and propose something similar for Library Carpentry's interim committee. We will then make a proposal about that, ask for feedback, and then try to organise a vote.
 
 The people interested were:
 
