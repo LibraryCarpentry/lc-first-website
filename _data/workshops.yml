@@ -491,6 +491,18 @@ workshops:
     url: "https://nwu-digitalhumanities.github.io/2017-09-30-lc-south-africa/"
     notes: "This is a weekend workshop at the University of the Witwatersrand to introduce Library Carpentry."
     blogs: null 
+  - venue: "The National Archives, Kew, UK"
+    start: 2017-11-07
+    end: 2017-11-07
+    eventbrite_id: ''
+    humandate: 7 November, 2017
+    latitude: 51.4816
+    longitude: 0.2799
+    who: "James Baker"
+    numbers: null
+    what: "Intro, regex, Shell"
+    url: "https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-day-tickets-36187449636"
+    blogs: null
 - &id_ws_future # future workshops: move this line down as time passes
   - venue: "QULOC-LISWP, The University of Queensland"
     start: 2017-11-03
@@ -503,18 +515,6 @@ workshops:
     numbers: null
     what: "Intro, Shell, OpenRefine"
     url: https://weaverbel.github.io/2017-11-03-liswp/
-    blogs: null
-  - venue: "The National Archives, Kew, UK"
-    start: 2017-11-07
-    end: 2017-11-07
-    eventbrite_id: ''
-    humandate: 7 November, 2017
-    latitude: 51.4816
-    longitude: 0.2799
-    who: "James Baker"
-    numbers: null
-    what: "Intro, regex, Shell"
-    url: "https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-day-tickets-36187449636"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
