@@ -503,7 +503,6 @@ workshops:
     what: "Intro, regex, Shell"
     url: "https://www.eventbrite.com/e/library-carpentry-archivists-and-records-managers-day-tickets-36187449636"
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "QULOC-LISWP, The University of Queensland"
     start: 2017-11-03
     end: 2017-11-03
@@ -515,6 +514,19 @@ workshops:
     numbers: null
     what: "Intro, Shell, OpenRefine"
     url: https://weaverbel.github.io/2017-11-03-liswp/
+    blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
+  - venue: "ALLA 2018 conference, Darwin"
+    start: 2018-05-02
+    end: 2018-05-02
+    eventbrite_id: ''
+    humandate: 2 May, 2018
+    latitude: -27.496990
+    longitude: 153.011403
+    who: "Richard Vankoningsveld"
+    numbers: null
+    what: "Intro, OpenRefine, Python"
+    url: "http://allaconference.com.au/2018/index.php/program/workshops/"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
