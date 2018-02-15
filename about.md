@@ -41,15 +41,10 @@ ______
 
 ## How is Library Carpentry Managed?
 
-Library Carpentry was developed and is maintained by volunteers. There is no central organisation or command structure, and all activity is - at present - voluntary.  Management and maintenance are distributed. Each module is 'owned' by one of more individuals responsible for coordinating maintenance of that module. Changes to lessons are managed using the GitHub Issue tracker. Announcements and initial discussion take place on [Gitter](https://gitter.im/LibraryCarpentry/). New members are welcome to join this community. 
-
-A [discussion on the future direction for Library Carpentry](https://github.com/data-lessons/librarycarpentry/issues/48) is currently open for comment. Feel free to contribute.
+Library Carpentry was developed and is maintained by volunteers. There is no central organisation or command structure, though we are planning to have an interim governance group by mid-year. All activity is - at present - voluntary.  Management and maintenance are distributed. Each module is 'owned' by one of more individuals responsible for coordinating maintenance of that module. Changes to lessons are managed using the GitHub Issue tracker. Announcements and initial discussion take place on [Gitter](https://gitter.im/LibraryCarpentry/). New members are welcome to join this community or to join governance and management dicsussions via this [Google Group](https://groups.google.com/forum/#!forum/libcarpentry-committee). 
 
 ______
 
-## Publications
-
-*Baker, J. et al., (2016). Library Carpentry: software skills training for library professionals. LIBER Quarterly. 26(3), pp.141–162. DOI: [http://doi.org/10.18352/lq.10176](http://doi.org/10.18352/lq.10176)*
 
 ### Contact
 
@@ -58,5 +53,12 @@ You can follow Library Carpentry on [Twitter](https://twitter.com/LibCarpentry) 
 If you wish to request a workshop, please use [this link](https://software-carpentry.org/workshops/request/). The Carpentries are now managing these requests on our behalf.
 
 If you want to contact someone in the community, leave a message in our [chatroom](https://gitter.im/LibraryCarpentry/), raise a issue on [one of our lesson repositories](https://github.com/data-lessons), or join the [Google Group](https://groups.google.com/forum/#!forum/libcarpentry-committee).
+
+______
+
+## Publications
+
+*Baker, J. et al., (2016). Library Carpentry: software skills training for library professionals. LIBER Quarterly. 26(3), pp.141–162. DOI: [http://doi.org/10.18352/lq.10176](http://doi.org/10.18352/lq.10176)*
+
 
 
