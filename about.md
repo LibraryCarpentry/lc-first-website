@@ -55,6 +55,8 @@ ______
 
 You can follow Library Carpentry on [Twitter](https://twitter.com/LibCarpentry) or talk to other members of the community through our chatrooms. We have three - the [Lobby](https://gitter.im/LibraryCarpentry/Lobby), for general enquiries and conversations, a [workshop requests and planning](https://gitter.im/LibraryCarpentry/workshops) chatroom and another chatroom for [lesson development discussions](https://gitter.im/LibraryCarpentry/lesson-dev). You will need a GitHub username or Twitter handle to join any of these forums.
 
-If you wish to contact Library Carpentry to request a workshop or ask a question, leave a message in our [chatroom](https://gitter.im/LibraryCarpentry/), raise a issue on [one of our lesson repositories](https://github.com/data-lessons), or get in touch with our of [our regional coordinators](https://github.com/data-lessons/librarycarpentry/issues/10#issue-181435373) through the form below.
+If you wish to request a workshop, please use [this link](https://software-carpentry.org/workshops/request/). Thge Carpentries are now managing these requests on our behalf.
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSf2m4uYJ_-7EyuQA9071MICt2diG7X-IhJKfqKCyf8pJ77_aA/viewform?embedded=true" width="720" height="900" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+If you want to contact someone in the community, leave a message in our [chatroom](https://gitter.im/LibraryCarpentry/), raise a issue on [one of our lesson repositories](https://github.com/data-lessons), or join the [Google Group](https://groups.google.com/forum/#!forum/libcarpentry-committee).
+
+
