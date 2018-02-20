@@ -516,6 +516,18 @@ workshops:
     url: https://weaverbel.github.io/2017-11-03-liswp/
     blogs: null
 - &id_ws_future # future workshops: move this line down as time passes
+  - venue: "Jean and Alexander Heard Library, Vanderbilt University"
+    start: 2018-04-05
+    end: 2018-04-06
+    eventbrite_id: ''
+    humandate: April 5-6, 2018
+    latitude: -86.8024317
+    longitude: 36.145687
+    who: "Veronica Ikeshoji-Orlati"
+    numbers: null
+    what: "Tidy data, Shell, OpenRefine, Git"
+    url: https://vai2fc.github.io/2018-04-05-vanderbilt/
+    blogs: null
   - venue: "ALLA 2018 conference, Darwin"
     start: 2018-05-02
     end: 2018-05-02
