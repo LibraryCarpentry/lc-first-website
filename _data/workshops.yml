@@ -516,6 +516,18 @@ workshops:
     url: https://weaverbel.github.io/2017-11-03-liswp/
     blogs: null
 - &id_ws_future # future workshops: move this line down as time passes
+  - venue: "UC Riverside"
+    start: 2018-03-01
+    end: 2018-03-01
+    eventbrite_id: ''
+    humandate: 1 March, 2018
+    latitude: -86.8024317
+    longitude: 36.145687
+    who: " Laura Smart, Danielle Kane, Noah Geraci, Kat Koziar, Scott Peterson"
+    numbers: null
+    what: "Data Intro, Shell"
+    url: https://ljsmart.github.io/2018-03-01-UCDLF/
+    blogs: null
   - venue: "Jean and Alexander Heard Library, Vanderbilt University"
     start: 2018-04-05
     end: 2018-04-06
