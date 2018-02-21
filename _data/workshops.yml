@@ -557,12 +557,12 @@ workshops:
     end: 2018-06-10
     eventbrite_id: ''
     humandate: 10 June, 2018
-    latitude: 
-    longitude: 
+    latitude: 39.2853908
+    longitude: -76.6171126
     who: "Tim Dennis"
     numbers: null
     what: "Intro, OpenRefine, Python"
-    url: ""
+    url: "http://www.tim-dennis.com/2018-06-10-baltimore-sla/"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
