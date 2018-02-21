@@ -552,5 +552,17 @@ workshops:
     what: "Intro, OpenRefine, Python"
     url: "http://allaconference.com.au/2018/index.php/program/workshops/"
     blogs: null
+  - venue: "SLA Baltimore"
+    start: 2018-06-10
+    end: 2018-06-10
+    eventbrite_id: ''
+    humandate: 10 June, 2018
+    latitude: 
+    longitude: 
+    who: "Tim Dennis"
+    numbers: null
+    what: "Intro, OpenRefine, Python"
+    url: ""
+    blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
