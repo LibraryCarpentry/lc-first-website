@@ -13,7 +13,7 @@ As this was my first time volunteering, it wasn't a case of just turning up on t
 
 A couple of days before the workshop myself, my line manager (who would be delivering one of the sessions), and another helper met to run through the exercises together.  This was invaluable, as any uncertainties we had about particular sections were explained and solved at this stage. 
 
-## The software: [Unix Shell](http://data-lessons.github.io/library-shell/), [GitHub](https://data-lessons.github.io/library-git/01-what-is-git/), and [OpenRefine](http://data-lessons.github.io/library-openrefine/)
+## The software: [Unix Shell](https://librarycarpentry.github.io/lc-shell/), [GitHub](https://librarycarpentry.github.io/lc-git/01-what-is-git/), and [OpenRefine](https://librarycarpentry.github.io/lc-open-refine/)
 
 Workshops generally cover a data introduction, Unix Shell, GitHub, and OpenRefine. Unix Shell is a command line interface that allows users to efficiently find and manipulate the metadata within their PCs' directories and files. It does this without opening those files or directories within an application such as Microsoft Word. OpenRefine is a tool that makes cleaning and enhancing metadata relatively quick and easy. The interface resembles those of spreadsheets such as Microsoft Excel or Google Sheets, but offers more features and flexibility in terms of manipulating large data sets. GitHub is collaborative version control tool for those working on group projects, similar to Google Drive or SharePoint. 
 
