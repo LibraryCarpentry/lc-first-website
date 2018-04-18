@@ -12,7 +12,7 @@ It was great to have such a good roll-up for both calls, and we managed to make 
 ### Website redesign
 
 We voted to move ahead with [Richard Vankoningsveld](https://github.com/richyvk)'s [proposed redesign](https://www.richyvk.me/library-carpentry-redesign/)
-of the existing [Library Carpentry](http://librarycarpentry.github.io/) website. John Chodacki would prefer the logo be 
+of the existing [Library Carpentry](https://librarycarpentry.github.io/) website. John Chodacki would prefer the logo be 
 white or grey rather than yellow, and Richard still has some work to do to get the blog to render in the same [Agency theme](https://github.com/y7kim/agency-jekyll-theme). 
 
 This theme is designed for projects rather than for blogs but, with some tweaking, this should not be a problem. So things are looking good!

@@ -11,9 +11,9 @@ Library Carpentry is software skills training aimed at the needs and requirement
 - better understand the use of software in research
 - *and much more..*
 
-Training takes places in face-to-face workshops where one or more of the developed modules are taught. Modules are also made available online ([CC BY](http://librarycarpentry.github.io/lc-data-intro/license/), published via GitHub Pages) for self-directed study or for adaption and reuse by library professionals.
+Training takes places in face-to-face workshops where one or more of the developed modules are taught. Modules are also made available online ([CC BY](https://librarycarpentry.github.io/lc-data-intro/license/), published via GitHub Pages) for self-directed study or for adaption and reuse by library professionals.
 
-Thanks to the generosity of [British Library Labs](http://labs.bl.uk/), Library Carpentry has £500 (or non-GBP equivalent) available to an individual or group who wish to run a Library Carpentry workshop at a library or for librarians. A Library Carpentry workshop is a face-to-face event where one or more of the currently developed modules are taught. Each module is designed to be taught over a half-day and a typical workshop combines these over one or more days, consecutive or otherwise (for more on what a Library Carpentry workshop is, see our [About](http://librarycarpentry.github.io/about/) page).
+Thanks to the generosity of [British Library Labs](http://labs.bl.uk/), Library Carpentry has £500 (or non-GBP equivalent) available to an individual or group who wish to run a Library Carpentry workshop at a library or for librarians. A Library Carpentry workshop is a face-to-face event where one or more of the currently developed modules are taught. Each module is designed to be taught over a half-day and a typical workshop combines these over one or more days, consecutive or otherwise (for more on what a Library Carpentry workshop is, see our [About](https://librarycarpentry.github.io/about/) page).
 
 Applications for these funds should include the following information:
 
