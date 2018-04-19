@@ -17,8 +17,8 @@
     - title: OpenRefine
       description: |
         An introduction to cleaning and enhancing data in OpenRefine.
-      repo: https://github.com/librarycarpentry/lc-openrefine
-      web: https://librarycarpentry.github.io/lc-openrefine/
+      repo: https://github.com/librarycarpentry/lc-open-refine
+      web: https://librarycarpentry.github.io/lc-open-refine/
 
 - status: Beta
   lessons:
