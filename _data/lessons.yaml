@@ -3,7 +3,7 @@
     - title: Introduction to data
       description: |
         An introduction to the terminology of data and computing, and the use of regular expressions to search and update text. 
-      repo: https://github.com/LibraryCarpentry/lc-data-intro
+      repo: https://github.com/librarycarpentry/lc-data-intro
       web:  https://librarycarpentry.github.io/lc-data-intro
 
     - title: Unix Shell
@@ -26,13 +26,13 @@
       description: |
         Introduces the Git version control system and the GitHub
         collaboration tool.
-      repo: https://github.com/data-lessons/lc-git
+      repo: https://github.com/librarycarpentry/lc-git
       web: https://librarycarpentry.github.io/lc-git/
 
     - title: Structured Query Language (SQL)
       description: |
         Introduces relational database management system using SQLite.
-      repo: https://github.com/data-lessons/lc-sql
+      repo: https://github.com/librarycarpentry/lc-sql
       web: https://librarycarpentry.github.io/lc-sql/
     
 - status: Alpha
@@ -63,3 +63,4 @@
         with data.
       repo: https://github.com/librarycarpentry/lc-data-intro-archives
       web: https://librarycarpentry.github.io/lc-data-intro-archives/
+
