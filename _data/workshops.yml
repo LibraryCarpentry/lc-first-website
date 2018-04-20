@@ -515,7 +515,6 @@ workshops:
     what: "Intro, Shell, OpenRefine"
     url: https://weaverbel.github.io/2017-11-03-liswp/
     blogs: null
-- &id_ws_future # future workshops: move this line down as time passes
   - venue: "UC Riverside"
     start: 2018-03-01
     end: 2018-03-01
@@ -540,6 +539,7 @@ workshops:
     what: "Tidy data, Shell, OpenRefine, Git"
     url: https://vai2fc.github.io/2018-04-05-vanderbilt/
     blogs: null
+- &id_ws_future # future workshops: move this line down as time passes
   - venue: "ALLA 2018 conference, Darwin"
     start: 2018-05-02
     end: 2018-05-02
@@ -563,6 +563,19 @@ workshops:
     numbers: null
     what: "Intro, OpenRefine, Python"
     url: "http://www.tim-dennis.com/2018-06-10-baltimore-sla/"
+    blogs: null
+  - venue: "Gießen, Germany"
+    start: 2018-07-03
+    end: 2018-07-04
+    eventbrite_id: ''
+    humandate: 3-4 July, 2018
+    latitude: 50.57538
+    longitude: 8.69938
+    who: "Evamaria Krause"
+    numbers: null
+    what: "Intro, OpenRefine, Python, Git"
+    url: "https://evamarik.github.io/2018-07-03-giessen/"
+    notes: "See also https://www.vdb-online.org/veranstaltung/767/ (in German)"
     blogs: null
 workshops_future: *id_ws_future
 workshops_past: *id_ws_past
