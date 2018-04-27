@@ -552,6 +552,18 @@ workshops:
     what: "Intro, OpenRefine, Python"
     url: "http://allaconference.com.au/2018/index.php/program/workshops/"
     blogs: null
+  - venue: "University of Melbourne"
+    start: 2018-05-04
+    end: 2018-05-04
+    eventbrite_id: ''
+    humandate: 4 May, 2018
+    latitude: -37.7969964
+    longitude: 144.9581026
+    who: "Belinda Weaver, Peter Neith"
+    numbers: null
+    what: "Intro, OpenRefine, RegEx, Python"
+    url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
+    blogs: null
   - venue: "SLA Baltimore"
     start: 2018-06-10
     end: 2018-06-10
