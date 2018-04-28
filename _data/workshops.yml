@@ -564,6 +564,17 @@ workshops:
     what: "Intro to Data, OpenRefine, RegEx, Shell"
     url: "https://weaverbel.github.io/2018-05-04-unimelb-lc//"
     blogs: null
+  - venue: "UCLA Library"
+    start: 2018-05-24
+    end: 2018-05-25
+    eventbrite_id: ''
+    humandate: 24 May, 2018
+    latitude: 34.074969 
+    longitude: -118.441466
+    who: "Chris Erdmann, Juliane Schneider, John Chodacki"
+    what: "Intro to Data, OpenRefine
+    url: "https://ucla-data-archive.github.io/2018-05-24-ucla/"
+    blogs: null
   - venue: "SLA Baltimore"
     start: 2018-06-10
     end: 2018-06-10
