@@ -8,7 +8,7 @@ Library Carpentry is made **by librarians, for librarians** to help
 you:
 
 - automate repetitive, boring, error-prone tasks
-- create, maintain and analyse sustainable and reusable data
+- create, maintain, and analyse sustainable and reusable data
 - work effectively with IT and systems colleagues
 - better understand the use of software in research
 - *and much more…*
