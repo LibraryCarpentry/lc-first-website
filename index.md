@@ -13,6 +13,8 @@ you:
 - better understand the use of software in research
 - *and much more…*
 
+Visit our [ALL-NEW WEBSITE](http://librarycarpentry.org)!
+
 Library Carpentry introduces you to the fundamentals of computing and provides you with a platform for further self-directed learning.
 
 # Upcoming Library Carpentry Events
