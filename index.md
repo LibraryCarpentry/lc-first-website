@@ -4,7 +4,7 @@ layout: default
 
 # Library Carpentry has moved !
 
-Visit our [ALL-NEW WEBSITE](http://librarycarpentry.org)!
+Please visit our [ALL-NEW WEBSITE](http://librarycarpentry.org) and add it to your list of favourite sites.
 
 <!--
 # Upcoming Library Carpentry Events-->
